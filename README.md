@@ -1,5 +1,6 @@
-### Hi there 👋
+# hello my name is Mahmoud Khaled Abo El-magd👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <!--
 **Mahmoudkhaled225/Mahmoudkhaled225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
