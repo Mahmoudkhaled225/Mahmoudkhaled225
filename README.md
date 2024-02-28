@@ -1,6 +1,8 @@
 # hello my name is Mahmoud Khaled Abo El-magd👋
 
-## I'm a fresh grade Back-end engineer who graduated from FCAI-CU , that interested in writing software application,and lives in Giza,Egypt
-My Goal is to write code that matches the main standards of best practices like producing clean ,
-maintainable, and well-documented code, and always seeking new ways to improve my development skills. Seeking a work opportunity to help me increase my experience 
-i am currently interested in Building RESTFUL API'S with NodeJS and try to expand my leaning by studing new technologies as NestJS ,and imporve my abilities in design and analysis of software by considering main core science sush as networking and database 
+## As a junior software backend engineer who graduated from FCAI-CU , that bring expertise in Node.js, ASP.NET Core,and lives in Giza,Egypt
+I am skilled in designing, developing, testing software for web-based applications,
+I have taken full responsibility for engineering efforts from planning and designing to executing and delivering complex web server programs.
+Seeking a work opportunity to help me increase my experience 
+I possess a keen vision for managing individual priorities and meeting deadlines effectively. 
+I am dedicated to continuously improving my skills and contributing to the success of software development teams.
